@@ -1,0 +1,11 @@
+Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) architecture used in deep learning. 
+It is designed to address the vanishing gradient problem, which can occur in traditional RNNs when training on long sequences. 
+LSTMs have a more complex structure with specialized memory cells, input, output, and forget gates, allowing them to capture and retain information over extended time periods. 
+This makes LSTMs well-suited for tasks involving sequential or time-dependent data, such as natural language processing, speech recognition, and time series prediction.
+
+
+Word2Vec is a popular technique in deep learning for converting words into vector representations. 
+It uses a neural network to learn distributed representations of words in a continuous vector space. 
+The key idea is that words with similar meanings are represented by similar vectors, capturing semantic relationships.
+Word2Vec is trained on large text corpora and can be used to generate word embeddings, which are useful for various natural 
+language processing tasks, such as sentiment analysis, machine translation, and information retrieval
